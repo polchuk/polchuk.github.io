@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "M5LYAUBE5G.net.elyland.UniversalLinksSample",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
