@@ -7,6 +7,12 @@
         "paths": [
           "*"
         ]
+      },
+      {
+        "appID": "M5LYAUBE5G.net.elyland.wormax",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
